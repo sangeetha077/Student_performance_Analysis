@@ -1,8 +1,7 @@
 create database edutrack_analysis;
-
 use edutrack_analysis;
 
-
+-- Database schema with normalization
 -- 1. Ethnicity Table
 create table Ethnicity(Id int primary key auto_increment,
 						Race varchar(50) unique not null);
@@ -40,4 +39,5 @@ create table Students(Id int primary key auto_increment,
                         foreign key(LunchId) references Lunch(Id),
                         foreign key(preparation_id) references preparation_course(Id));
                         
-                        
+
+
