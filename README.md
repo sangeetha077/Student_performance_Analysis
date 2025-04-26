@@ -35,15 +35,14 @@ Using graphical met
 
 | File Name | Description |  
 |-------------|-------------|  
-| StudentPerformance.csv|Original dataset containing student demographic details and exam scores. |  
-| cleaned_student_data.csv | Dataset after cleaning (null removal, formatting corrections, etc.).|  
-| DataCleaning.ipynb  | Jupyter Notebook for data cleaning and preprocessing steps.|  
+| StudentPerformance.csv|Original dataset containing student data. |  
+| cleaned_student_data.csv | Dataset after cleaning .|  
+| DataCleaning.ipynb  | data cleaning and preprocessing steps.|  
 | EDA_Matplotlib.ipynb | Exploratory Data Analysis (EDA) and visualizations using Matplotlib library.|
 | EDA_Seaborn.ipynb | Exploratory Data Analysis (EDA) and visualizations using Seaborn library.|
-| Students_Performance_Analysis.ipynb | End-to-end project notebook combining data loading, cleaning, EDA, and basic insights.|
 | Statistics.ipynb | Basic statistical operations like mean, median, mode, standard deviation, etc.|
 | Statistics_Analysis.ipynb | Deep statistical analysis including hypothesis testing and correlation study.|
-| SQL_Insights.sql | SQL queries for deriving insights from the student performance data stored in SQL tables.
+| SQL_Insights.sql | SQL queries for deriving insights from the student performance data stored in SQL tables.|
 | Students_performance.sql | SQL script to create database and tables for storing student performance data.|
 | ER_Diagram.png | Entity-Relationship Diagram showing the database structure for the project.|
 | README.md | Project documentation explaining the dataset, workflow, files, and insights.|
