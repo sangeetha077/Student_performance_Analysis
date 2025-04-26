@@ -40,10 +40,10 @@ Using graphical met
 | DataCleaning.ipynb  | data cleaning and preprocessing steps.|  
 | EDA_Matplotlib.ipynb | Exploratory Data Analysis (EDA) and visualizations using Matplotlib library.|
 | EDA_Seaborn.ipynb | Exploratory Data Analysis (EDA) and visualizations using Seaborn library.|
-| Statistics.ipynb | Basic statistical operations like mean, median, mode, standard deviation, etc.|
+| Statistics_Analysis_p2.ipynb | Basic statistical operations like mean, median, mode, standard deviation, etc.|
 | Statistics_Analysis.ipynb | Deep statistical analysis including hypothesis testing and correlation study.|
 | SQL_Insights.sql | SQL queries for deriving insights from the student performance data stored in SQL tables.|
-| Students_performance.sql | SQL script to create database and tables for storing student performance data.|
+| Database_schema.sql | SQL script to create database and tables for storing student performance data.|
 | ER_Diagram.png | Entity-Relationship Diagram showing the database structure for the project.|
 | README.md | Project documentation explaining the dataset, workflow, files, and insights.|
 
