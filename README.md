@@ -64,7 +64,7 @@ Subject-wise performance analysis
 Group-based performance comparisons
 
 ### 4. Statistical Analysis
-Run Statistics.ipynb and Statistics_Analysis.ipynb in Jupyter Notebook to:
+Run Statistics_Analysis_p2.ipynb and Statistics_Analysis.ipynb in Jupyter Notebook to:
 Calculate mean, median, mode, standard deviation
 Perform hypothesis testing and correlation studies
 
