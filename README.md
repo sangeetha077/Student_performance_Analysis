@@ -90,7 +90,7 @@ Run EDA_Seaborn.ipynb to explore the data using Seaborn visualizations.
 - Strong positive correlation between reading and writing scores, while Mathematics had a weaker correlation with other subjects.
 
 ## Project Submission
-GitHub Repository: [Student_performance_Analysis]([https://github.com/sangeetha077/Student_performance_Analysis]) 
+GitHub Repository: [Student_performance_Analysis](https://github.com/sangeetha077/Student_performance_Analysis) 
 
 ## Contributors
 - Sangeetha Thangam
