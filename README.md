@@ -6,19 +6,19 @@ This project analyzes students' exam performances based on various demographic, 
 The dataset contains scores in three subjects: Math, Reading, and Writing, along with attributes like gender, race/ethnicity, parental education, lunch type, and test preparation.
 
 ## Project Workflow 
-## Data Loading and Preprocessing:
+### Data Loading and Preprocessing:
 Cleaning and preparing the dataset for analysis.
 
-## Exploratory Data Analysis (EDA): 
+### Exploratory Data Analysis (EDA): 
 Understanding data distributions, relationships between variables, and basic trend discovery.
 
-## Statistical Analysis:
+### Statistical Analysis:
 Applying statistical methods like correlation analysis, mean/median/mode calculations, hypothesis testing, and group comparisons to validate observed patterns.
 
-## Data Visualization:
+### Data Visualization:
 Using graphical met
 
-## Dataset Details 
+### Dataset Details 
 
 | Column Name | Description |  
 |-------------|-------------|  
