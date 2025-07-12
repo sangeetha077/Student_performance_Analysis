@@ -30,16 +30,6 @@ Using graphical met
 | math score |	Math exam score (0-100) |  
 |reading score | 	Reading exam score (0-100)|  
 | writing score | Writing exam score (0-100)|  
-### Tools & Technologies Used
-
-| Category           | Tools Used                                   |
-|--------------------|----------------------------------------------|
-| Language           | Python                                       |
-| Data Handling      | Pandas, NumPy                                |
-| Visualization      | Matplotlib, Seaborn                          |
-| Statistics         | SciPy, Statsmodels                           |
-| Development        | Jupyter Notebook                             |
-| Dataset            | Kaggle - Students Performance in Exams       |
 
 ## Files in the Repository
 
